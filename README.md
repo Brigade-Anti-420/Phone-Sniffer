@@ -16,7 +16,7 @@ Netwalker is a tool allowing you to encrypt/decrypt files !
 Made in Python
 <br><br><br>
 </strong>
-<img src="https://cdn.discordapp.com/attachments/955004618063085568/1041362730906554449/image.png" width="801", height="420">
+<img src="https://cdn.discordapp.com/attachments/955004618063085568/1043490762635092008/image.png" width="801", height="420">
 </p>
 <br>
 
